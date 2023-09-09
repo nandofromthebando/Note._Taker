@@ -1,0 +1,37 @@
+/* Adjust font size and color for the note textarea */
+#note {
+  font-size: 10px;
+  color: #333; /* You can use color names or hex values */
+}
+h1 {
+    font-size: 20px;
+    color: #333;
+    font-weight: bold;
+  }
+/*Save button */
+#save {
+  background-color: #156518; /* Background color */
+  color: #ffffff; /* Text color */
+  font-size: 14px;
+  font-family: "American Typewriter", Bold;
+  font-style: ;
+  border: none; /* Remove the button border */
+  padding: 10px 20px; /* Adjust padding */
+  cursor: pointer; /* cursor style on hover */
+}
+#clear {
+    background-color: #114d89; /* Background color */
+    color: #f4f4f4; /* Text color */
+    font-size: 14px;
+    font-family: "American Typewriter", Bold;
+    font-style: ;
+    border: none; /* Remove the button border */
+    padding: 10px 20px; /* Adjust padding */
+    cursor: pointer; /* cursor style on hover */
+  }
+/* Style the container div for notes */
+#notes {
+  background-color: #ffffff;
+  padding: 10px;
+  border: 1px solid #000000;
+}

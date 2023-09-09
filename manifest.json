@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Note.Taker",
+    "version": "1.0",
+    "description": "An extension for taking quick notes.",
+    "permissions": ["storage"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "images/notepad16.png",
+        "48": "images/notepad48.png",
+        "128": "images/notepad128.png"
+      }
+    },      
+    "icons": {
+        "16": "images/notepad16.png",
+        "48": "images/notepad48.png",
+        "128": "images/notepad128.png"
+    }
+  }
+  
